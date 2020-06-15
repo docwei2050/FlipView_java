@@ -1,0 +1,61 @@
+/build
+.idea
+.vscode
+.DS_Store
+node_modules/
+
+package-lock.json
+
+platforms/
+plugins/
+
+www/
+
+#built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+
+# OSX files
+.DS_Store
+
+# Android Studio
+*.iml
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+.gradle
+build/
+.navigation
+captures/
+output.json
+
+#NDK
+obj/
+.externalNativeBuild
+
+*.iml
+.gradle
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+
+
+# app/src/main/assets/webpage/
+app/*.iml
+
+.gitignore
+local.properties
