@@ -14,7 +14,7 @@
    
 三、预览图
 
-<img src="https://github.com/docwei2050/FlipView/blob/master/imgs/Screenshot_20200615-010431.png" width=270 height=480 align=left />
-<img src="https://github.com/docwei2050/FlipView/blob/master/imgs/Screenshot_20200615-010438.png" width=270 height=480 align=left />
+<img src="https://github.com/docwei2050/FlipView_java/blob/master/screenshot/Screenshot_20200615-010431.png" width=270 height=480 align=left />
+<img src="https://github.com/docwei2050/FlipView_java/blob/master/screenshot/Screenshot_20200615-010438.png" width=270 height=480 align=left />
 
 
